@@ -19,7 +19,6 @@
 ## 💻 My Learning Journey
 ```html
 <div style="display: flex; flex-direction: column; gap: 20px; font-family: Arial, sans-serif;">
-
   <!-- Programming Languages Learned -->
   <div>
     <h3>🖥️ Languages & Frameworks</h3>
