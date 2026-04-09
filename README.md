@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sharmin Akter Jame</h1>
 <h3 align="center">Passionate about building scalable and user-friendly web applications</h3>
-
+---
 - 🌱 I’m currently learning **💻 Learning React.js & JavaScript | Building Projects**
 
 - 👨‍💻 All of my projects are available at [jamefa.netlify.app](jamefa.netlify.app)
 
 - 📫 How to reach me **sharminakterjame26@gmail.com**
-
+---
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Nice+to+meet+you!"/>
 </p>
