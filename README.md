@@ -47,3 +47,35 @@
     </ul>
   </div>
 </div>
+
+## 💻
+# Premium Digital Tools Website
+> A modern web application providing premium digital tools for productivity and creativity.
+
+## 📝 Overview
+This project is a web-based platform offering a collection of premium digital tools.  
+Users can explore, use, and manage digital tools efficiently through a clean and responsive interface.
+
+## 🌐 Live Preview
+🔗 https://cheery-seahorse-a2936b.netlify.app
+
+## 💻 Tech Stack
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Backend / Database:** Firebase (if applicable)
+- **Others:** Axios, React Router
+
+## ✨ Features
+- Responsive modern design  
+- Interactive user interface  
+- Tool browsing and management  
+- Optional: User authentication (if implemented)  
+- Easy navigation and tool access
+
+## 📦 Dependencies
+- react  
+- react-dom  
+- react-router-dom  
+- axios  
+- tailwindcss  
+- firebase (if used)
