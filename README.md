@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharmin Akter Jame</h1>
 <h3 align="center">Passionate about building scalable and user-friendly web applications</h3>
 
+<img width="1383" height="471" alt="image" src="https://github.com/user-attachments/assets/f2660a95-caf1-4e10-bc59-3fd7d41d9d87" />
+
+
 - 🌱 I’m currently learning **💻 Learning React.js & JavaScript | Building Projects**
 
 - 👨‍💻 All of my projects are available at [jamefa.netlify.app](jamefa.netlify.app)
