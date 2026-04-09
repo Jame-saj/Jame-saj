@@ -19,7 +19,6 @@
 ## 💻 My Learning Journey
 ```html
 <div style="display: flex; flex-direction: column; gap: 20px; font-family: Arial, sans-serif;">
-  <!-- Programming Languages Learned -->
   <div>
     <h3>🖥️ Languages & Frameworks</h3>
     <ul>
@@ -29,7 +28,6 @@
       <li>Node.js (Basics)</li>
     </ul>
   </div>
-  <!-- Current Studies -->
   <div>
     <h3>📚 Currently Learning</h3>
     <ul>
@@ -39,7 +37,6 @@
       <li>TypeScript Basics</li>
     </ul>
   </div>
-  <!-- Communication Skills -->
   <div>
     <h3>🗣️ How I Communicate</h3>
     <ul>
